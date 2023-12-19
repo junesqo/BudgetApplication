@@ -6,6 +6,8 @@ Teacher: Ph.D Gulzada Esenalieva
 Used tools: Mircosoft Visual Studio
 Programming language used: C#
 
+Technical task link: https://drive.google.com/drive/folders/1FjGXa-7P2gZucQp3TxnWec8kvWXvyHpP?usp=sharing
+
 
 Used elements: Buttons, Textboxes, RIchtextbox, Pie chart, Labels, Radio buttons, Groupbox
 
